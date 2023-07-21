@@ -3,8 +3,9 @@
 1. Url-Attack
 2. Network Attacks
 3. The Ransomware Kill Chain
-4. IP_DNS use_full command
-5. Linux AWK Command Cheat sheet
+4. [Port Used by Hacker](https://github.com/sachin-dtu/Cyberattack_Tactic-/blob/main/Port_used_by_hacker.md)
+5. IP_DNS use_full command
+6. Linux AWK Command Cheat sheet
 # URL-obfuscator
 
 A simple Python Program to obfuscate URLs to make phishing urls more difficult to detect.
