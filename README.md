@@ -4,7 +4,7 @@
 2. Network Attacks
 3. The Ransomware Kill Chain
 4. [Port Used by Hacker](https://github.com/sachin-dtu/Cyberattack_Tactic-/blob/main/Port_used_by_hacker.md)
-5. [Port Target by Hacker](https://github.com/sachin-dtu/Cyberattack_Tactic-/blob/main/Port_Target_by_Hacker)
+5. [Port Target by Hacker](https://github.com/sachin-dtu/Cyberattack_Tactic-/blob/main/Port_Target_by_Hacker.md)
 6. IP_DNS use_full command
 7. Linux AWK Command Cheat sheet
 # URL-obfuscator
